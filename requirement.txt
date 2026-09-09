@@ -1,0 +1,4 @@
+PyAutoGUI
+openpyxl
+playwright
+seleniumbase
